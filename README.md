@@ -4,12 +4,12 @@
  language support solution</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivakrisl&label=Profile%20views&color=0e75b6&style=flat" alt="shivakrisl" width="200" height="60"/>
+  <img src="https://komarev.com/ghpvc/?username=HarshithaReddy2005&label=Profile%20views&color=0e75b6&style=flat" alt="HarshithaReddy2005" width="200" height="60"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shivakrisl&column=7&margin-w=15&margin-h=15" alt="shivakrisl" />
+    <img src="https://github-profile-trophy.vercel.app/?username=HarshithaReddy2005&column=7&margin-w=15&margin-h=15" alt="HarshithaReddy2005" />
   </a>
 </p>
 
