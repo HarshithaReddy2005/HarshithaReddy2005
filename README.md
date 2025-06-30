@@ -1,6 +1,6 @@
 <div style="background-color:#FFFFFF; padding:20px">
-<h1 align="center">Hello 👋, I'm Moola Harshitha</h1>
-<h3 align="center">Aspiring Software Engineer | CS Student at SR University | Deep learning & Full-Stack Enthusiast |  Summer Intern@NITW|final round qualifier at  the JAGSoM x Apna Next Gen Minds Innovation Challenge for proposing an AI-based
+<h1 align="center">Hello 👋, I'm Moola Harshitha Reddy</h1>
+<h3 align="center">Aspiring Software Engineer | CSE Student at SR University | Deep learning & Full-Stack Enthusiast |  Summer Intern@NITW|Final round qualifier at  the JAGSoM x Apna Next Gen Minds Innovation Challenge for proposing an AI-based
  language support solution</h3>
 
 <p align="center">
