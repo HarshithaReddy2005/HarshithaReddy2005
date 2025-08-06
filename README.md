@@ -24,7 +24,7 @@
     <tr>
 <td><a href="https://www.linkedin.com/in/harshitha-reddy-483b52293/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivakrishnabeeraboina/" height="60" width="60" /></a></td>
       <td><a href="https://www.hackerrank.com/profile/2203A51430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shivakrishnabee1" height="60" width="60" /></a></td>
-      <td><a href="https://leetcode.com/u/Z3vQOrzM1f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivakrishnabeeraboina/" height="60" width="60" /></a></td>
+      <td><a href="https://leetcode.com/u/HarshithaCodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivakrishnabeeraboina/" height="60" width="60" /></a></td>
        
    </tr>
   </table>
