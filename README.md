@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **harshithamoola99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17x5uy_93n45HRX2TfT8QC_PxleITCkcP/view?usp=drive_link)
+ 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
