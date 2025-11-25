@@ -103,7 +103,7 @@
   </table>
 </p>
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshithaReddy2005&show_icons=true&locale=en&layout=compact" alt="HarshithaReddy2005" width="600" />
 </p>
 
@@ -112,6 +112,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshithaReddy2005&" alt="" width="60HarshithaReddy20050" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshithaReddy2005&" alt="HarshithaReddy2005" width="600" />
 </p>
 </div>
